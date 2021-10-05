@@ -1,8 +1,5 @@
 # An RNN based approach to classify HIV-1 geonmes into HIV-1 subtypes. 
 
-
-
---
 ## Problem Definition
 
 The classification of infections among the subtypes of human
@@ -26,10 +23,17 @@ heighest samples. The subtype with heighest samples was ’B’, with 5727
 samples. And the subtype ’35 AD’, with 22 samples.
 
 ## Model Summary
-![Model Summary]()
+![Model Summary](https://github.com/nishatbristy007/HIV-1-subtype-classification/blob/main/model_summary.png)
 
---
+## Results
+![Results](https://github.com/nishatbristy007/HIV-1-subtype-classification/blob/main/results.JPG)
+
+**A few takes on the results**
+- Our observation is that with character level time-series analysis, a sliding window approach seems to be the most accurate.  This is because sliding window gives the opportunity of increasing samples in the training dataset, as well as ensures that every portion and functional relation of the genome is being considered.
+- For k-mer analysis, both k = 15 and k = 21 performs significantly good.
+
 ## Data Availability
 
-Link to google drive: https://drive.google.com/drive/folders/1QAbltLllvnhrpkOtDHLPdKGmP6j0UQId?usp=sharing
-Link to webapp: https://mm7yg5x64d2ce5ht.anvil.app/KVWNR77PLK47F3XLHLJ5PTJB (The server needs to be up and running for this link to work).
+The project is available at [Google Drive](https://drive.google.com/drive/folders/1QAbltLllvnhrpkOtDHLPdKGmP6j0UQId?usp=sharing)
+
+The web application [Link](https://mm7yg5x64d2ce5ht.anvil.app/KVWNR77PLK47F3XLHLJ5PTJB) (Note that the server needs to be running for this link to work.)
