@@ -36,4 +36,6 @@ samples. And the subtype ’35 AD’, with 22 samples.
 
 The project is available at [Google Drive](https://drive.google.com/drive/folders/1QAbltLllvnhrpkOtDHLPdKGmP6j0UQId?usp=sharing)
 
+A brief presentation is available at [this link](https://github.com/nishatbristy007/HIV-1-subtype-classification/blob/main/HIV-1%20Subtyping%20Using%20RNN%20(Slides).pdf).
+
 The web application [Link](https://mm7yg5x64d2ce5ht.anvil.app/KVWNR77PLK47F3XLHLJ5PTJB) (Note that the server needs to be running for this link to work.)
