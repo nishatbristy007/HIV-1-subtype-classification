@@ -25,12 +25,6 @@ samples. And the subtype ’35 AD’, with 22 samples.
 ## Model Summary
 ![Model Summary](https://github.com/nishatbristy007/HIV-1-subtype-classification/blob/main/model_summary.png)
 
-## Results
-![Results](https://github.com/nishatbristy007/HIV-1-subtype-classification/blob/main/results.JPG)
-
-**A few takes on the results**
-- Our observation is that with character level time-series analysis, a sliding window approach seems to be the most accurate.  This is because sliding window gives the opportunity of increasing samples in the training dataset, as well as ensures that every portion and functional relation of the genome is being considered.
-- For k-mer analysis, both k = 15 and k = 21 performs significantly good.
 
 ## Data Availability
 
