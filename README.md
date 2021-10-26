@@ -2,6 +2,8 @@
 
 ## Problem Definition
 
+![HIV](hiv.jpg)
+
 The classification of infections among the subtypes of human
 immunodeficiency virus type 1 (HIV-1) is a routine component of
 clinical management, and there are now many classification
